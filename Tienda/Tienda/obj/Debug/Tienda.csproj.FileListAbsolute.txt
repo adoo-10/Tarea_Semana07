@@ -1,0 +1,7 @@
+C:\Users\MINEDUCYT\source\repos\Tienda\Tienda\bin\Debug\Tienda.exe.config
+C:\Users\MINEDUCYT\source\repos\Tienda\Tienda\bin\Debug\Tienda.exe
+C:\Users\MINEDUCYT\source\repos\Tienda\Tienda\bin\Debug\Tienda.pdb
+C:\Users\MINEDUCYT\source\repos\Tienda\Tienda\obj\Debug\Tienda.csproj.AssemblyReference.cache
+C:\Users\MINEDUCYT\source\repos\Tienda\Tienda\obj\Debug\Tienda.csproj.CoreCompileInputs.cache
+C:\Users\MINEDUCYT\source\repos\Tienda\Tienda\obj\Debug\Tienda.exe
+C:\Users\MINEDUCYT\source\repos\Tienda\Tienda\obj\Debug\Tienda.pdb

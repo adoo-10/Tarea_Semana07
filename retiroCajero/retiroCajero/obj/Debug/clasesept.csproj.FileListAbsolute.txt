@@ -1,0 +1,7 @@
+C:\Users\MINEDUCYT\source\repos\clasesept\clasesept\bin\Debug\clasesept.exe.config
+C:\Users\MINEDUCYT\source\repos\clasesept\clasesept\bin\Debug\clasesept.exe
+C:\Users\MINEDUCYT\source\repos\clasesept\clasesept\bin\Debug\clasesept.pdb
+C:\Users\MINEDUCYT\source\repos\clasesept\clasesept\obj\Debug\clasesept.csproj.AssemblyReference.cache
+C:\Users\MINEDUCYT\source\repos\clasesept\clasesept\obj\Debug\clasesept.csproj.CoreCompileInputs.cache
+C:\Users\MINEDUCYT\source\repos\clasesept\clasesept\obj\Debug\clasesept.exe
+C:\Users\MINEDUCYT\source\repos\clasesept\clasesept\obj\Debug\clasesept.pdb
